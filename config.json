@@ -1,7 +1,7 @@
 {
-	"host": "Philipou12.aternos.me",
-	"port": "25565",
-	"username": "Philipou Aternos 24/7 Bot",
+	"host": "F1314A.aternos.me",
+	"port": "17891",
+	"username": "sus Aternos 24/7 Bot",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
